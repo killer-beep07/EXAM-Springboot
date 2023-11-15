@@ -35,6 +35,17 @@ L'objectif principal de cette base de données est de fournir une solution fiabl
 # Illustration de la Base de Données
 ## Conception
 
+<img width="455" alt="image" src="https://github.com/killer-beep07/EXAM-Springboot/assets/130712993/b21dca29-223d-4097-9dc8-731b078a1a66">
+
+## Articles par categorie
+
+<img width="919" alt="image" src="https://github.com/killer-beep07/EXAM-Springboot/assets/130712993/9118e461-3f21-490e-9bcd-60eff75d10b3">
+<img width="836" alt="image" src="https://github.com/killer-beep07/EXAM-Springboot/assets/130712993/553e77ec-d4b8-42b5-9846-7027eab14730">
+
+## Filtrage par date
+<img width="929" alt="image" src="https://github.com/killer-beep07/EXAM-Springboot/assets/130712993/008a3523-406b-41c3-b5df-b0b88443c92d">
+<img width="822" alt="image" src="https://github.com/killer-beep07/EXAM-Springboot/assets/130712993/e515c52a-501d-490d-bb60-d1d26e5f0256">
+
 
 
 
